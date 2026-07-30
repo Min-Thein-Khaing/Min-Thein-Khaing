@@ -61,8 +61,8 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Min-Thein-Khaing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min-Thein-Khaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Min-Thein-Khaing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Min-Thein-Khaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Min-Thein-Khaing&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=Min-Thein-Khaing&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
