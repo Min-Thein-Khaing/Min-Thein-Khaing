@@ -5,14 +5,16 @@
 ### 🚀 Full Stack Web & Mobile Developer
 
 <p align="center">
+  <a href="mailto:mintheinkhaing@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Min-Thein-Khaing" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
 Building modern web applications, scalable backend APIs, and cross-platform mobile applications.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;NestJS+Backend+Developer;React+%7C+Next.js+%7C+React+Native;TypeScript+%7C+Laravel+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Min-Thein-Khaing&style=for-the-badge&color=00c2ff" alt="Profile Views" />
-</p>
 
 </div>
 
@@ -20,66 +22,39 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Web & Mobile Developer
-- ⚙️ Passionate about Backend Development
-- 📱 Building modern mobile apps with React Native & Expo
-- 🌐 Building scalable REST APIs with NestJS & Laravel
-- ☁️ Interested in Cloud, DevOps, and System Design
-- 🎯 Goal: Become a Professional Backend Engineer
+- 💻 **Full Stack Web & Mobile Developer** passionate about building clean, maintainable, and high-performance solutions.
+- ⚙️ **Backend Enthusiast** focusing on secure RESTful APIs, databases optimization, and microservice architectures.
+- 📱 **Mobile Developer** designing fluid cross-platform experiences using React Native and Expo.
+- 🌐 Interested in DevOps, System Design, Cloud Deployments, and automation.
+- 🎯 **Goal:** Build robust backend architectures and grow as a professional Backend / System Architect.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,tailwind,vite,nodejs,express,nestjs,laravel,mongodb,mysql,postgres,docker,linux,nginx,git,github,vscode,postman,figma&perline=11" alt="My Tech Stack" />
 </p>
-
-### 🎨 Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" alt="Backend" />
-</p>
-
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
-</p>
-
-### ☁️ DevOps & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" alt="DevOps" />
-</p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Tools" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- ⚡ Advanced NestJS & Microservices
-- 🏛️ Clean Architecture & System Design
-- 🐘 PostgreSQL Optimization & Prisma Advanced
-- 🚀 Docker, Redis, CI/CD & Cloud (AWS)
-- 🧪 Testing with Jest
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Key Features |
+| Project | Tech Stack | Key Features & Highlights |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce API** | NestJS, Prisma, PostgreSQL | JWT, Refresh Token, Stripe, Pagination, Filtering, RBAC |
-| **🌐 Portfolio Website** | Next.js, TypeScript, Tailwind | Modern Responsive UI, SEO Optimized |
-| **📱 React Native App** | React Native, Expo, TypeScript | Cross-platform mobile architecture |
+| <a href="https://github.com/Min-Thein-Khaing" target="_blank">**🛒 E-Commerce API**</a> | `NestJS` `Prisma` `PostgreSQL` | • Advanced security with JWT & Refresh Token rotation<br>• Stripe Payment integration & webhook handling<br>• Flexible Role-Based Access Control (RBAC)<br>• Advanced pagination, sorting & query filtering |
+| <a href="https://github.com/Min-Thein-Khaing" target="_blank">**🌐 Portfolio Website**</a> | `Next.js` `TypeScript` `Tailwind` | • Premium responsive design with fluid CSS animations<br>• Optimized for Google PageSpeed & SEO best practices<br>• Highly dynamic interactive forms |
+| <a href="https://github.com/Min-Thein-Khaing" target="_blank">**📱 React Native App**</a> | `React Native` `Expo` `TypeScript` | • Robust cross-platform architecture (iOS & Android)<br>• Clean code and state synchronization patterns |
+
+---
+
+## 🗺️ 2026 Learning Roadmap & Goals
+
+- [x] **Master NestJS & Production APIs** (Security, RBAC, Filters, Interceptors)
+- [/] **Docker & Containerization** (Multi-container architecture, networking, Docker Compose)
+- [ ] **Redis & Caching** (Rate-limiting, cache-aside strategy, session stores)
+- [ ] **Cloud Deployments** (AWS ECS/EC2, Kubernetes orchestration)
+- [ ] **System Design** (Microservices, message queues like RabbitMQ/Kafka, scalability patterns)
 
 ---
 
@@ -120,18 +95,8 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 
 ---
 
-## 🎯 2026 Goals
-
-- [x] Build Production Ready APIs
-- [x] Master NestJS
-- [ ] Master Docker & Containerization
-- [ ] Learn Redis & Caching Strategies
-- [ ] Cloud Deployment (AWS & Kubernetes)
-- [ ] Deep dive into System Design & Microservices
-
----
-
 ## 📂 My Workflow
 
 ```text
 Idea ──► UI Design ──► React / Next.js ──► NestJS API ──► Prisma ORM ──► PostgreSQL ──► Docker ──► Coolify Deployment
+```
