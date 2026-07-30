@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-````md
 <div align="center">
 
 # 👋 Hi, I'm Min Thein Khaing
