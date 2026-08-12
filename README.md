@@ -71,9 +71,9 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Min-Thein-Khaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Min-Thein-Khaing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 ---
 
 
