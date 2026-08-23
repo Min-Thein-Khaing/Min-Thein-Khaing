@@ -40,6 +40,7 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,go,react,nextjs,tailwind,vite,nodejs,express,nestjs,laravel,mongodb,mysql,postgres,docker,linux,nginx,git,github,vscode,postman,figma&perline=11" alt="My Tech Stack" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin Framework" />
 </p>
 
 ---
