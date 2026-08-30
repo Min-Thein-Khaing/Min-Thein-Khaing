@@ -39,7 +39,7 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,go,react,nextjs,tailwind,vite,nodejs,express,nestjs,laravel,mongodb,mysql,postgres,docker,linux,nginx,git,github,vscode,postman,figma&perline=11" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,tailwind,vite,nodejs,express,nestjs,laravel,mongodb,mysql,postgres,docker,linux,nginx,git,github,vscode,postman,figma&perline=11" alt="My Tech Stack" />
 </p>
 
 ---
