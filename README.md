@@ -80,7 +80,7 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Min-Thein-Khaing&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Min-Thein-Khaing&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
