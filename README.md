@@ -71,15 +71,7 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Min-Thein-Khaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Min-Thein-Khaing&theme=tokyo_night" alt="Activity Graph" width="100%" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
