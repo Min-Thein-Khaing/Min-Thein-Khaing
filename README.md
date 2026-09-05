@@ -71,16 +71,12 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Min-Thein-Khaing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Min-Thein-Khaing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
 ---
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Min-Thein-Khaing&theme=tokyo-night" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Min-Thein-Khaing&theme=tokyo_night" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -101,4 +97,3 @@ Building modern web applications, scalable backend APIs, and cross-platform mobi
 
 ```text
 Idea ──► UI Design ──► React / Next.js ──► NestJS API ──► Prisma ORM ──► PostgreSQL ──► Docker ──► Coolify Deployment
-```
